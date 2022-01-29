@@ -1,1 +1,1 @@
-web: pip install . -U && mlproject-computedist
+web: pip install . -U && mlproject-run
